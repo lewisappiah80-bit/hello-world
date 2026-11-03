@@ -1,3 +1,9 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
-Hey there, my name is Lewis and i am just getting into Programming. so i am just a baby taking his first steps.
+# Hello World
+
+My name is Lewis.
+
+I am learning programming for the first time.
+
+I am just getting started with GitHub, and this is my first GitHub project.
+
+I am excited to learn and develop new skills.
